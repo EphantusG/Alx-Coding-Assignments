@@ -1,3 +1,13 @@
 # Alx-Coding-Assignments
 This repository contains All ALX Assigments
-I am new to coding, looking forward to an exciting experience
+For Loops
+// FizzBuzz  ---- Python Code
+for num in range(1,50):
+    if (num%3==0 and num%5==0):
+        print("FizzBuzz")
+    elif (num%3==0):
+        print("Fizz")
+    elif (num%5==0):
+        print("Buzz")
+    else:
+        print(num)
